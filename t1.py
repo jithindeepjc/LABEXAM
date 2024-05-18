@@ -1,1 +1,1 @@
-print("CS LAB EXAMS ARE COMPLETED !")
+print("CS")
